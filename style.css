@@ -251,43 +251,48 @@ h3{
 
 @media only screen and (min-width: 728px) and (max-width: 1000px) {
  
-  html, body{
-    /* height:100%; */
-    padding-top: 0px;
-    /* background-image:url('https://thumbs.gfycat.com/AbandonedBountifulGuineapig-mobile.mp4'); */
-    
-  }
-  #background{
-  flex-direction: column;
-  height:600px;
-  }
+html, body{
+  /* height:100%; */
+  padding-top: 0px;
+  /* background-image:url('https://thumbs.gfycat.com/AbandonedBountifulGuineapig-mobile.mp4'); */
   
-  #details{
-    /* width:400px; */
-    display: flex;
-    flex-direction: row;
-    margin-top:0;
-  }
-  
-  h1{
-    font-size: 25px;
-  }
-  button{
-    margin-top:40px;
-    
-    size: 300px;
-    font-size: 20px;
-    
-  }
-  
-  h3{
-    font-size: 15px;
-  }
-  #center-card{
-    height: 600px;
-    width: 500px;
-  }
-  .profile-card{
-    width:400px;
-  }
+}
+#background{
+flex-direction: column;
+height:600px;
+}
+
+#details{
+  display: flex;
+  flex-direction: row;
+  width:400px;
+  margin-top:0;
+}
+
+h1{
+  font-size: 25px;
+}
+button{
+  margin-top:40px;
+  size: 300px;
+  font-size: 20px;
+ /* margin-left:30px;  */
+}
+
+h3{
+  font-size: 15px;
+}
+#center-card{
+  margin-top:80px;
+  height: 600px;
+  width: 500px;
+}
+.profile-card{
+  width:400px;
+}
+#typingScript{
+  margin-right:50px;
+  padding-left:30px;
+  width:300px;
+}
 }
