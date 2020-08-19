@@ -207,9 +207,14 @@ html, body{
   /* background-image:url('https://thumbs.gfycat.com/AbandonedBountifulGuineapig-mobile.mp4'); */
   
 }
+
+#myVideo{
+  padding-top:0px;
+}
 #background{
 flex-direction: column;
-height:600px;
+height:800px;
+padding-top:0px;
 }
 
 #details{
@@ -256,15 +261,19 @@ h3{
     /* background-image:url('https://thumbs.gfycat.com/AbandonedBountifulGuineapig-mobile.mp4'); */
     
   }
+  
+#myVideo{
+  padding-top:0px;
+}
   #background{
   flex-direction: column;
   height:600px;
   }
   
   #details{
+    /* width:400px; */
     display: flex;
     flex-direction: row;
-    width:400px;
     margin-top:0;
   }
   
@@ -273,26 +282,21 @@ h3{
   }
   button{
     margin-top:40px;
+    
     size: 300px;
     font-size: 20px;
-   /* margin-left:30px;  */
+    
   }
   
   h3{
     font-size: 15px;
   }
   #center-card{
-    margin-top:80px;
     height: 600px;
     width: 500px;
   }
   .profile-card{
     width:400px;
-  }
-  #typingScript{
-    margin-right:50px;
-    padding-left:30px;
-    width:300px;
   }
   }
   
@@ -306,14 +310,14 @@ h3{
     
   }
   #background{
-  flex-direction: column;
+  flex-direction: row;
   height:600px;
   }
   
   #details{
     /* width:400px; */
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin-top:0;
   }
   
