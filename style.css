@@ -214,7 +214,7 @@ html, body{
 #background{
 flex-direction: column;
 height:800px;
-padding-top:0px;
+padding-top:30px;
 }
 
 #details{
@@ -225,7 +225,7 @@ padding-top:0px;
 }
 
 h1{
-  font-size: 25px;
+  font-size: 22px;
 }
 button{
   margin-top:40px;
@@ -235,7 +235,7 @@ button{
 }
 
 h3{
-  font-size: 15px;
+  font-size: 12px;
 }
 #center-card{
   margin-top:80px;
