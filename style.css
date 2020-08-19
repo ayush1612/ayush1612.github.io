@@ -234,8 +234,8 @@ button{
  /* margin-left:30px;  */
 }
 
-h3{
-  font-size: 12px;
+h4{
+  font-size: 18px;
 }
 #center-card{
   margin-top:80px;
@@ -288,8 +288,8 @@ h3{
     
   }
   
-  h3{
-    font-size: 15px;
+  h4{
+    font-size: 20px;
   }
   #center-card{
     height: 600px;
@@ -332,8 +332,8 @@ h3{
     
   }
   
-  h3{
-    font-size: 15px;
+  h4{
+    font-size: 20px;
   }
   #center-card{
     height: 600px;
