@@ -1,0 +1,62 @@
+[
+    {
+        "image":"./images/reactjs.png",
+        "confidence":"60",
+        "name": "React.js"
+    },
+    {
+        "image":"./images/python.png",
+        "confidence":"70",
+        "name": "Python"
+    },
+    {
+        "image":"./images/django.png",
+        "confidence":"60",
+        "name": "Django"
+    },
+    {
+        "image":"./images/flutter.png",
+        "confidence":"70",
+        "name": "Flutter"
+    },
+    {
+        "image":"./images/html.png",
+        "confidence":"80",
+        "name": "HTML5"
+    },
+    {
+        "image":"./images/css.png",
+        "confidence":"80",
+        "name": "CSS3"
+    },
+    {
+        "image":"./images/js.jpg",
+        "confidence":"60",
+        "name": "Javascript"
+    },
+    {
+        "image":"./images/cplusplus.png",
+        "confidence":"80",
+        "name": "C++"
+    },
+    {
+        "image":"./images/aws.jpg",
+        "confidence":"60",
+        "name": "AWS"
+    },
+    {
+        "image":"./images/glusterfs.png",
+        "confidence":"80",
+        "name": "GlusterFS"
+    },
+    {
+        "image":"./images/linux.png",
+        "confidence":"80",
+        "name": "Linux"
+    },
+    {
+        "image":"./images/git.png",
+        "confidence":"90",
+        "name": "Git and Github"
+    }
+]

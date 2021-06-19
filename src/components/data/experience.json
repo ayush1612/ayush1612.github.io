@@ -1,0 +1,22 @@
+[
+    {
+        "name": "RedHat",
+        "profile":"Software Engineering Intern",
+        "duration": "6 months",
+        "description": ["Worked on developing the new testing framework for GlusterFS which provides 470% faster performance than the previous framework.",
+                        "Fixed bugs and Coverity issues in GlusterFS.",
+                        "Hosted Community Meetings for Gluster Organization.",
+                        "Worked on documentation for Glusterdocs using Make and published articles on the file system."],
+        "image":"./images/redhat.png",
+        "tech":["Python", "C", "Make", "BASH"]
+    },{
+        "name": "MyTasi",
+        "profile": "Full-Stack development Intern",
+        "duration": "1.5 months",
+        "description": ["Played the lead role in the Web-development team of Tasiride. I worked with the front-end as well as the backend of the website.",
+                        "Along with the development of the website, I also dealt with the hosting using AWS and database management. ",
+                        "During this tenure I also worked on making animated videos for advertisement purpose."],
+        "image":"./images/mytasi.png",
+        "tech":["HTML", "CSS", "Javascript", "Node", "MongoDB", "AWS"]
+    }
+]

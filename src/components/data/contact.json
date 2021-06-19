@@ -1,0 +1,18 @@
+[
+    {
+        "image":"./images/linkedin.webp",
+        "url":"https://www.linkedin.com/in/ayush-ujjwal-15496016b/"
+    },
+    {
+        "image":"./images/github.jpg",
+        "url":"https://github.com/ayush1612"
+    },
+    {
+        "image":"./images/medium.png",
+        "url":"https://medium.com/@ujjwal-msrit"
+    },
+    {
+        "image":"./images/soundcloud.png",
+        "url":"https://soundcloud.com/user-498312357/"
+    }
+]
